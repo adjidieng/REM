@@ -1,6 +1,6 @@
 # REM
 
-This repo provides code that accompanies the paper "Reweighted Expectation Maximization" by Dieng and Paisley, 2019 (). 
+This repo provides code that accompanies the paper "Reweighted Expectation Maximization" by Dieng and Paisley, 2019 (http://arxiv.org/abs/1906.05850). 
 It uses pytorch 1.1.0
 
 ## Example command to run REM (v1) on omniglot:
